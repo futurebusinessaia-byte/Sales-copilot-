@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Revenue Command Center",
+  "description": "AI-powered revenue intelligence, company research, buying committee mapping, proposal generation, ROI calculator, and executive analytics for enterprise software companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
